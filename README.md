@@ -3,3 +3,4 @@ java script project for interns practice
 
 fetch api
 work with js create html element
+work with async await
